@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "sj",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xuewuhen999/mybox/main/live2.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
