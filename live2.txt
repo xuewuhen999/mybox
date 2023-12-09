@@ -8,6 +8,7 @@ CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/350/index.m3u8?&encr
 CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1/350/index.m3u8?&encrypt=
 CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1/600/index.m3u8?&encrypt=
 CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?&encrypt=
+CCTV1,https://live.metshop.top/msp.php?id=cctv1
 
 CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=1
 CCTV2,http://cfss.cc/api/ysp/cctv2.m3u8
@@ -28,6 +29,7 @@ CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?
 CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
 CCTV3,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/cctv3/350/index.m3u8?&encrypt=
 CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?&encrypt=
+CCTV3,https://live.metshop.top/msp.php?id=cctv3
 
 CCTV4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=1
 CCTV4,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=1
@@ -192,8 +194,9 @@ CHC高清电影,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playl
 辽宁卫视,http://49.235.110.121:9090/daili/小果.php?id=lnwsHDH264_4000&Cf.m3u8
 
 黑龙江卫视,http://49.235.110.121:9090/daili/小果.php?id=hljwsH265_4000&Cf.m3u8
+黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
+黑龙江卫视,http://live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 
 广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?&encrypt=
@@ -207,22 +210,13 @@ CHC高清电影,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playl
 天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
 天津卫视,http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 
-四川卫视,http://58.220.219.14:9901/tsfile/live/0123_1.m3u8?key=txiptv
 四川卫视,http://49.235.110.121:9090/daili/小果.php?id=scwsH265_4000&Cf.m3u8
-四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
-四川卫视,http://221.213.43.82:8888/newlive/live/hls/32/live.m3u8
+四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 
-吉林卫视,http://sxz.zccatv.cn:9901/tsfile/live/0116_1.m3u8
-吉林卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?&encrypt=
-吉林卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/350/index.m3u8?&encrypt=
-吉林卫视,http://stream1.jlntv.cn/jlws/playlist.m3u8
-吉林卫视,http://58.220.219.14:9901/tsfile/live/0116_1.m3u8?key=txiptv
-吉林卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://61.169.37.218:9901/tsfile/live/0135_1.m3u8?key=txiptv
-吉林卫视,http://218.13.170.98:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://49.235.110.121:9090/daili/小果.php?id=jlwsH265_4000&Cf.m3u8
 吉林卫视,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
-吉林卫视,http://183.66.196.98:9901/tsfile/live/0116_1.m3u8
+吉林卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?&encrypt=
+吉林卫视,http://58.220.219.14:9901/tsfile/live/0116_1.m3u8?key=txiptv
 
 山西卫视,http://sxz.zccatv.cn:9901/tsfile/live/0118_1.m3u8
 山西卫视,http://49.235.110.121:9090/daili/小果.php?id=sxws42_4000&Cf.m3u8
