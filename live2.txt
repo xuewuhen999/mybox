@@ -640,7 +640,25 @@ CETV2,http://222.134.240.136:9901/tsfile/live/1072_1.m3u8?url=tvzb.com
 五星体育,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 
 地方,#genre#
+黑龙江新闻法制,http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
+黑龙江新闻法制,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 
+
+黑龙江文体,http://39.134.65.149/PLTV/88888888/224/3221225965/1.m3u8
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+
+
+黑龙江影视,http://39.134.65.149/PLTV/88888888/224/3221225973/1.m3u8
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+
+黑龙江都市,http://39.134.65.151/PLTV/88888888/224/3221225969/1.m3u8
+黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+
+黑龙江少儿,http://39.134.65.143/PLTV/88888888/224/3221226002/1.m3u8
+黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+
+黑龙江公共农业,http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
+黑龙江公共农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 北京冬奥,http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8
 北京冬奥,http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
