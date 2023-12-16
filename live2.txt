@@ -1,5 +1,9 @@
 🇨🇳CCTV,#genre#
-CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV1,http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://39.134.65.179/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8
+CCTV2,http://111.13.111.242/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -32,10 +36,7 @@ CCTV12,http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8
 CCTV14,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
 CCTV16,http://39.134.66.110/PLTV/88888888/224/3221225893/index.m3u8
 CCTV17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
-CCTV1,http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.65.179/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8
+
 CCTV3,http://39.134.66.46/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://39.134.65.179/PLTV/88888888/224/3221225799/index.m3u8
@@ -99,9 +100,7 @@ CCTV4,http://219.140.56.34:3333/tsfile/live/1004_1.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
-
-
-CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=1
+CCTV2,http://wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=1
 CCTV2,http://cfss.cc/api/ysp/cctv2.m3u8
 CCTV2,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=1
 CCTV2,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/54/20200407/index.m3u8?&encrypt=1
