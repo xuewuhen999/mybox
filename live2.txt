@@ -1,17 +1,12 @@
 🇨🇳CCTV,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+
 CCTV1,http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://121.24.98.226:8090/hls/9/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225767/index.m3u8
-CCTV1,http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.65.179/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8
 
-
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV2,http://111.13.111.242/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
-CCTV2,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
 
 CCTV3,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -69,7 +64,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
