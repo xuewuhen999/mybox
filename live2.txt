@@ -247,72 +247,14 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 睛彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 
 世界,#genre#
-CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 BBC Earth,https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
-BBC News (North America) (1080p),https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Live Now FOX美国福克斯新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-Dubai One (1080p),https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-Internacional Europe-Asia,https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
-ABC News Australia (720p),https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
-ABC TV Sydney (720p),https://c.mjh.nz/abc-nsw.m3u8
-ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-ABC News,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-ABC News,https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-ABC News,https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
-ABC News,https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-ABC News,https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-ABC News,https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-
-🇭🇰港台,#genre#
-TVBS,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-凤凰中文,http://gxdl-lhs.8866.org:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视,http://sxz.zccatv.cn:9901/tsfile/live/0108_1.m3u8
-凤凰资讯,http://sxz.zccatv.cn:9901/tsfile/live/1076_1.m3u8
-卫视电影台,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=941625&extension=ts
-
-台视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156392
-台视,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156392&extension=ts
-台视,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156398&extension=ts
-台视,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
-
-
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-翡翠台,https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
-翡翠台,https://tvp22.sky4k.top/index1.php
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
-翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
-香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-中视新闻,http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8
