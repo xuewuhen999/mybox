@@ -31,7 +31,7 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 
 CGTN英语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
@@ -192,7 +192,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-黑龙江公共农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江农业科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 齐齐哈尔经济法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
 齐齐哈尔新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
