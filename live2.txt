@@ -1365,21 +1365,11 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-
-
-
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-ABC News Live美国广播公司新闻直播,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 Live Now FOX美国福克斯新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-NBC News Now美国全国广播公司新闻,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-BBC英国广播公司,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-Sky News英国天空新闻台,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNN美国有线电视新闻网,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 
 
 🇭🇰港台,#genre#
