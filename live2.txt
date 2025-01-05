@@ -256,6 +256,15 @@ CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43
 Live Now FOX美国福克斯新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Dubai One (1080p),https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 Internacional Europe-Asia,https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+ABC News Australia (720p),https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
+ABC TV Sydney (720p),https://c.mjh.nz/abc-nsw.m3u8
+ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+ABC News,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+ABC News,https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+ABC News,https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+ABC News,https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+ABC News,https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+ABC News,https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
 
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
